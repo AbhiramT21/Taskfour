@@ -23,7 +23,7 @@ Hello Abhiram t, right now the time is <current time>
 
     ```bash
     git clone https://github.com/AbhiramT21/Taskfour.git
-    cd Taskfour/taskfour
+    cd Taskfour/main
     ```
 
 2. Build and run the Rust program:
